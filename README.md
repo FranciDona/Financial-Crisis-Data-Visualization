@@ -5,3 +5,5 @@ Using pandas datareader I extracted data on stock prices, and then tested a few 
 - Seaborn
 - Matplotlib
 - Plotly
+
+For the Plotly visualizations, only the code is visible for now, as the plots are interactive and do not get saved as static in the Jupyter notebook.
